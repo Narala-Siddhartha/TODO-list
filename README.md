@@ -1,7 +1,8 @@
 # TODO-list
 <p>This is a TODO-list with User authentication and New User Registration, Every User will have their own Private profile and space</p>
-</p>This project is done using django backend framework with basic HTML,CSS,Bootstrap and JS and it uses the default SQLITE database to store the data</p>
-</p>This project is also embeded with the search mechanism to search a specific task among the numerous tasks</p>
+<p>This project is done using django backend framework with basic HTML,CSS,Bootstrap and JS and it uses the default SQLITE database to store the data</p>
+<p>This project is also embeded with the search mechanism to search a specific task among the numerous tasks</p>
+<p>Finally this project is also developed in a mobile friendly way</p>
 <h3>Here is the small demo of the project</h3>
 
 
@@ -23,4 +24,5 @@ https://user-images.githubusercontent.com/81971649/222873785-2887f92f-65dc-4d4c-
 
 ![image](https://user-images.githubusercontent.com/81971649/222873910-f47b4e86-d828-4b41-bed5-4b839c3ad7a4.png)
 ![image](https://user-images.githubusercontent.com/81971649/222873921-31b0e28f-14a1-4ea9-8d75-d38ce34b72f6.png)
+
 
