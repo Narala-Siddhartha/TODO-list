@@ -14,9 +14,13 @@ https://user-images.githubusercontent.com/81971649/222873785-2887f92f-65dc-4d4c-
 ![image](https://user-images.githubusercontent.com/81971649/222873854-42a21108-ebca-4b82-9643-bb156f412f70.png)
 
 <h3>Home page</h3>
+
+
 ![image](https://user-images.githubusercontent.com/81971649/222873881-cac00247-0618-4089-8a25-1b3329fc58e7.png)
 
 <h3>Delete and Add Task Pages</h3>
+
+
 ![image](https://user-images.githubusercontent.com/81971649/222873910-f47b4e86-d828-4b41-bed5-4b839c3ad7a4.png)
 ![image](https://user-images.githubusercontent.com/81971649/222873921-31b0e28f-14a1-4ea9-8d75-d38ce34b72f6.png)
 
