@@ -1,0 +1,14 @@
+{% extends 'main/main.html' %}
+
+{% block content %}
+<div class="header-sec">
+    <h1>Delete Task!!!</h1>
+    <a class="standard-btn-coloured" href="{% url 'task_list' %}">Go Back</a>
+</div>
+<p>Are you Sure? Do you want to delete {{task}} ?</p>
+<form method="POST" action="">
+    {% csrf_token %}
+    <input class="btn btn-danger btn-lg  my-3 mx-3" type="submit" value="delete">
+</form>
+
+{% endblock content %}

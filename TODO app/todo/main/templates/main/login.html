@@ -1,0 +1,19 @@
+{% extends 'main/main.html' %}
+
+{% block content %}
+<div class="header-sec">
+    <h1>Login</h1>
+</div>
+<form method="POST" action="" >
+    {% csrf_token %}
+    <div>
+        <label class="form-label">Username</label>
+        {{form.username}}
+    <label class="form-label">Password</label>
+    {{form.password}}
+    </div>
+    <input class="btn btn-primary btn-lg btn-dark my-3 mx-3" type="submit" value="Login">
+</form>
+<p>Don't have an account? <a href="{% url 'register' %}" style="color:#000; text-decoration:none;"><b>Register</b></a>
+
+{% endblock content %}

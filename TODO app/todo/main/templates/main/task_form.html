@@ -1,0 +1,16 @@
+{% extends 'main/main.html' %}
+
+{% block content %}
+
+<div class="header-sec">
+    <h1>Create task here</h1>
+    <a class="standard-btn-coloured" href="{% url 'task_list' %}">Go Back</a>
+</div>
+<form method="POST" action="">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input class="btn btn-success btn-lg my-3 mx-3" type="submit" value="Add Task">
+</form>
+
+{% endblock content%}
+
